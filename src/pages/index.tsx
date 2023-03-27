@@ -86,8 +86,8 @@ const Home = () => {
   return (
     <React.Fragment>
       <Head
-        title="Trang chủ (Anime) - Kaguya"
-        description="Xem anime hay tại Kaguya, cập nhật nhanh chóng, không quảng cáo và nhiều tính năng thú vị."
+        title="Home (Anime) - Zakuro"
+        description="Nonton anime bagus di Zakuro, update cepat, tanpa iklan dan banyak fitur menarik."
       />
 
       <ClientOnly>
